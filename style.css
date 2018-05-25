@@ -1,23 +1,40 @@
 #jon {
     width: 300px;
     max-height: 300px;
-    
+    margin: 7px auto;
 }
 h3 {
-    color:blue;
+    color:slateblue;
     text-align: center;
-    text-decoration-line: underline;
+    text-decoration: underline dotted black;
+    max-width: 120px;
+    margin: 20px auto;
+    padding: 5px
 }
 h2 {
     color: slateblue;
-    border: 2px dotted black;
-    
+    border: 2px double black;
+    max-width: 120px;
+    margin: 20px auto;
+    padding: 5px;
     text-align: center;
-    
+    background-color: aliceblue;
+}
+#poop {
+    color: white;
+    border: 2px double black;
+    max-width: 120px;
+    margin: 20px auto;
+    padding: 5px;
+    text-align: center;
+    background-color: grey;
 }
 p {
-    border: 2px solid paleturquoise;
+    border: 2px double black;
     font-family: cursive;
+    background-color: grey;
+    color: white;
+    
 }
 body {
     background-color: powderblue;
@@ -26,7 +43,8 @@ ul {
     border: 2px solid paleturquoise;
     font-family: cursive;
     list-style-type: none;
-    
+    background-color: slategrey;
+    color: wheat;
 }
 img {
     display: block;
