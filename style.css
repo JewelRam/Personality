@@ -1,0 +1,43 @@
+#jon {
+    width: 300px;
+    max-height: 300px;
+    
+}
+h3 {
+    color:blue;
+    text-align: center;
+    text-decoration-line: underline;
+}
+h2 {
+    color: slateblue;
+    border: 2px dotted black;
+    
+    text-align: center;
+    
+}
+p {
+    border: 2px solid paleturquoise;
+    font-family: cursive;
+}
+body {
+    background-color: powderblue;
+}
+ul {
+    border: 2px solid paleturquoise;
+    font-family: cursive;
+    list-style-type: none;
+    
+}
+img {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+  }
+
+
+li {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
