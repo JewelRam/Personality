@@ -3,6 +3,9 @@
     max-height: 300px;
     margin: 7px auto;
 }
+#title {
+    color: lightcyan;
+}
 h3 {
     color:slateblue;
     text-align: center;
@@ -11,9 +14,11 @@ h3 {
     margin: 20px auto;
     padding: 5px
 }
+
 h2 {
     color: slateblue;
     border: 2px double black;
+    border-radius: 20%;
     max-width: 120px;
     margin: 20px auto;
     padding: 5px;
@@ -27,17 +32,17 @@ h2 {
     margin: 20px auto;
     padding: 5px;
     text-align: center;
-    background-color: grey;
+    background-color: black;
 }
 p {
-    border: 2px double black;
     font-family: cursive;
-    background-color: grey;
+    background-color: rgb(19, 19, 44);
     color: white;
     
 }
 body {
-    background-color: powderblue;
+    background-image: url("https://i.gifer.com/1euX.gif");
+background-size: cover;
 }
 ul {
     border: 2px solid paleturquoise;
